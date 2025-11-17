@@ -2,6 +2,10 @@
 A simple Python module with a few useful functions for the math behind public-key crypto. Highly inefficient and INSECURE, only for educational purposes.
 
 ## How to use
+- (No) installation
+  - Install dependencies (requirements.txt)
+  - Copy si.py to your working directory
+  - Import with "import si"
 - Basic
   - Play with the functions, look at the code: This is what the code is intended for.
   - Report errors
